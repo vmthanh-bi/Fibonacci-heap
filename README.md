@@ -59,7 +59,7 @@ See the [open issues](https://github.com/vmthanh-bi/Fibonacci-heap/issues) for a
 
 Tony Vu - [@vmthanh.bi](https://github.com/vmthanh-bi) - vmthanh.bi@gmail.com
 
-Project Link: [https://github.com/vmthanh-bi/Prim-s-Algorithm](https://github.com/vmthanh-bi/Prim-s-Algorithm)
+Project Link: [https://github.com/vmthanh-bi/Fibonacci-heap](https://github.com/vmthanh-bi/Fibonacci-heap)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
